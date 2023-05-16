@@ -214,17 +214,3 @@ body {
     transform: translateY(0) rotate(0.4turn);
   }
 }
-
-
-/* footer styling*/
-.credit {
-  color: indigo;
-  text-align: center;
-  padding: 16px;
-  margin-top: 10px;
-  padding-top: 30px;
-  font-size: 20px;
-}
-.credit span {
-  color: indianred;
-}
